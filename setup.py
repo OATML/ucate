@@ -8,7 +8,7 @@ setup(
     version="0.0.0",
     description="Exploring uncertainty for CATE inference",
     long_description_content_type="text/markdown",
-    url="https://github.com/anndvision/ucate",
+    url="https://github.com/OATML/ucate",
     author="Andrew Jesson",
     author_email="andrew.jesson@cs.ox.ac.uk",
     license="Apache-2.0",
