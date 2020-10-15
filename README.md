@@ -14,7 +14,7 @@ $ conda activate ucate
 
 ### Download data
 ```
-mkdir data
+$ mkdir data
 ```
 
 To run the following experiments, the IHDP [train](http://www.fredjo.com/files/ihdp_npci_1-1000.train.npz.zip), 
