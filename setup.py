@@ -22,8 +22,8 @@ setup(
         "sklearn",
         "seaborn",
         "matplotlib",
-        "tensorflow",
-        "tensorflow-probability",
+        "tensorflow==2.3.1",
+        "tensorflow-probability==0.11.1",
     ],
     entry_points={
         "console_scripts": ["ucate=ucate.application.main:cli"],
